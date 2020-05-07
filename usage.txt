@@ -1,0 +1,8 @@
+#Correr pathwaytools en modo lisp
+./pathwaytools -lisp
+
+# Importar las funciones
+(load "gene-of-pathway")
+
+# Correr
+(tofile "pathways.dat" (object-table (get-class-all-instances '|Pathways|)))
