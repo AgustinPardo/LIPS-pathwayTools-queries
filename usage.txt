@@ -4,5 +4,5 @@
 # Importar las funciones
 (load "gene-of-pathway")
 
-# Correr
+# Correr. Ejecuta la funciones y guarda la salida el pathways.dat ( Path default "~/home")
 (tofile "pathways.dat" (object-table (get-class-all-instances '|Pathways|)))
