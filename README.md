@@ -2,12 +2,13 @@
 
 Devuelve una archivo de salida con los genes pertenecientes a cada pathway (4 columnas: Pathway name; Pathway id; gene name; gene id) del PGDB seleccionado. Ver ejemplo "ejemplo_pathways.dat".
 
-**Correr pathwaytools en modo lisp**
 
+**Correr pathwaytools en modo lisp**
 `
 ./pathwaytools -lisp
 `
-### Dentro del ambiente lisp de pathwaytools:
+
+## Dentro del ambiente lisp de pathwaytools ejecutar:
 
 **Ver PGDBs disponibles**
 
@@ -27,7 +28,7 @@ Devuelve una archivo de salida con los genes pertenecientes a cada pathway (4 co
 (load "gene-of-pathway")
 `
 
-**Correr. Ejecuta la funciones y guarda la salida en el archivo denomiado "pathways.dat" (Path default "~/home")**
+**Busqueda de pathways y genes. Guarda la salida en el archivo denomiado "pathways.dat" (Path default "~/home")**
 
 `
 (tofile "pathways.dat" (object-table (get-class-all-instances '|Pathways|)))
