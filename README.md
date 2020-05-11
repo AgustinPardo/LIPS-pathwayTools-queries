@@ -1,6 +1,6 @@
 # LIPS-pathwayTools-queries
 
-Devuelve una archivo de salida con los genes pertenecientes a cada pathway (4 columnas: Pathway name; Pathway id; gene name; gene id) del PGDB seleccionado). Ver ejemplo "ejemplo_pathways.dat".
+Devuelve una archivo de salida con los genes pertenecientes a cada pathway (4 columnas: Pathway name; Pathway id; gene name; gene id) del PGDB seleccionado. Ver ejemplo "ejemplo_pathways.dat".
 
 **Correr pathwaytools en modo lisp**
 
