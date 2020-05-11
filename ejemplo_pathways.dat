@@ -1,0 +1,433 @@
+PWY0-901;L-selenocysteine biosynthesis I (bacteria);selC serS selA selD;EG30092 EG10947 EG10941 EG10943
+PUTDEG-PWY;putrescine degradation I;patA puuC patD;G7596 EG10036 G6755
+PWY0-1221;putrescine degradation II;puuA puuB puuC puuD;G6644 EG11822 EG10036 G6645
+ASPARAGINESYN-PWY;L-asparagine biosynthesis II;asnA asnB;EG10091 EG10092
+ASPARAGINE-BIOSYNTHESIS;L-asparagine biosynthesis I;asnB;EG10092
+BIOTIN-BIOSYNTHESIS-PWY;biotin biosynthesis I;fdx acpP bioA bioB bioD bioF fabB bioC fabG fabZ fabI bioH;EG11328 EG50003 EG10117 EG10118 EG10120 EG10121 EG10274 EG10119 EG11318 EG11284 EG11528 EG10122
+PWY-6123;inosine-5'-phosphate biosynthesis I;purK purE purH purB purC;EG10796 EG10793 EG10795 EG11314 EG10791
+PWY0-1507;biotin biosynthesis from 8-amino-7-oxononanoate I;fdx bioA bioB bioD;EG11328 EG10117 EG10118 EG10120
+SAM-PWY;S-adenosyl-L-methionine biosynthesis;metK;EG10589
+PWY-7221;guanosine ribonucleotides <i>de novo</i> biosynthesis;adk ndk gmk guaA guaB;EG10032 EG10650 EG10965 EG10420 EG10421
+PWY0-1433;tetrahydromonapterin biosynthesis;folE folX folM;EG11375 G7195 G6862
+PWY-7219;adenosine ribonucleotides <i>de novo</i> biosynthesis;adk purB purA;EG10032 EG11314 EG10790
+PWY-6476;cytidylyl molybdenum cofactor biosynthesis;mocA;G7496
+PWY0-1325;superpathway of L-asparagine biosynthesis;asnA asnB;EG10091 EG10092
+PWY-6012;acyl carrier protein metabolism;entB acpP entF acpT acpS acpH;EG10260 EG50003 EG10264 EG12221 EG10247 EG11095
+PWY-5964;guanylyl molybdenum cofactor biosynthesis;mobA;EG11829
+P2-PWY;citrate lyase activation;citE citF citD citC citG citX;G6342 G6341 G6343 G6344 G6339 G6340
+PWY-5459;methylglyoxal degradation IV;lldD aldA;EG11963 EG10035
+PWY-5386;methylglyoxal degradation I;dld gloC yeiG gloB gloA;EG10231 G6475 EG12026 G6099 G6891
+PWY-5453;methylglyoxal degradation III;gldA yqhD yeaE dkgA dkgB gpr;EG11904 G7564 G6967 G7565 EG11648 G7558
+PYRIDNUCSYN-PWY;NAD <i>de novo</i> biosynthesis I (from aspartate);nadB nadA nadC nadE nadD;EG10631 EG10630 EG11546 EG10663 G6350
+PWY-7761;NAD salvage pathway II (PNC IV cycle);nadE pncC nadD;EG10663 G7409 G6350
+PWY3O-4106;NAD salvage pathway IV (from nicotinamide riboside);nadR;EG11335
+LEUSYN-PWY;L-leucine biosynthesis;leuD leuC leuA tyrB ilvE dmlA leuB;EG11575 EG11576 EG11226 EG11040 EG10497 G6986 EG11577
+PYRIDNUCSAL-PWY;NAD salvage pathway I (PNC VI cycle);pncA nadE pncB nadD;EG11135 EG10663 EG10742 G6350
+NADPHOS-DEPHOS-PWY;NAD phosphorylation and dephosphorylation;pntA pntB nadK;EG10744 EG10745 EG12192
+GLYCOCAT-PWY;glycogen degradation I;glk pgm malP malZ glgX glgP malQ;EG12957 EG12144 EG10560 EG10565 EG10381 EG10380 EG10561
+ASPARTATESYN-PWY;L-aspartate biosynthesis;aspC;EG10096
+GLUTDEG-PWY;L-glutamate degradation II;aspA aspC;EG10095 EG10096
+PWY-7446;sulfoquinovose degradation I;yihQ yihS yihV yihU yihT;EG11843 EG11845 EG11848 EG11847 EG11846
+PWY-7247;&beta;-D-glucuronide and D-glucuronate degradation;uidA uxaC;EG11055 G81
+GLUCUROCAT-PWY;superpathway of &beta;-D-glucuronosides degradation;uidA uxaC eda kdgK uxuA uxuB;EG11055 G81 EG10256 EG12253 EG11066 EG20248
+GLUCARDEG-PWY;<i>D</i>-glucarate degradation I;glxK garK gudD garR garL;G6283 EG11175 G7445 EG11176 EG10016
+PWY-5188;tetrapyrrole biosynthesis I (from glutamate);gltV gltU gltT gltW gltX hemA hemL hemB hemC hemD;EG30034 EG30033 EG30032 EG30035 EG10407 EG10427 EG10432 EG10428 EG10429 EG10430
+GALACTUROCAT-PWY;D-galacturonate degradation I;eda uxaC uxaB kdgK uxaA;EG10256 G81 EG11065 EG12253 EG12734
+GALACTARDEG-PWY;D-galactarate degradation I;glxK garK garD garR garL;G6283 EG11175 EG12522 EG11176 EG10016
+HOMOSER-METSYN-PWY;L-methionine biosynthesis I;malY metC metB metH metE metA;EG10564 EG10583 EG10582 EG10587 EG10584 EG10581
+PWY0-1306;L-galactonate degradation;lgoD;G7945
+METSYN-PWY;superpathway of L-homoserine and L-methionine biosynthesis;metL asd malY metC metB metH metE metA;EG10590 EG10088 EG10564 EG10583 EG10582 EG10587 EG10584 EG10581
+IDNCAT-PWY;L-idonate degradation;idnD idnK idnO;G7893 EG12152 G7892
+KETOGLUCONMET-PWY;ketogluconate metabolism;ghrB dkgA dkgB idnD gntK idnK idnO;EG12272 G7565 EG11648 G7893 EG12629 EG12152 G7892
+PWY-7242;D-fructuronate degradation;eda kdgK uxuA uxuB;EG10256 EG12253 EG11066 EG20248
+PWY0-1600;periplasmic disulfide bond reduction;dsbD;EG12178
+GALACTCAT-PWY;D-galactonate degradation;dgoD dgoA dgoK;GB4478 EG20049 EG20051
+PWY0-1599;periplasmic disulfide bond formation;dsbA dsbB;EG11297 EG11393
+PWY-7884;lipoprotein posttranslational modification;rseP sppA lspA lnt lgt;EG12436 EG10968 EG10548 EG10168 EG12128
+GLUT-REDOX-PWY;glutathione-glutaredoxin redox reactions;grxC grxB nrdH grxA dsbA;EG12294 EG12688 G7401 EG10417 EG11297
+DARABCATK12-PWY;D-arabinose degradation I;aldA fucA fucK fucI;EG10035 EG10348 EG10350 EG10349
+PWY0-1301;melibiose degradation;melA;EG10577
+PWY-5971;palmitate biosynthesis II (bacteria and plants);acpP fabI fabZ fabG fabB fabF;EG50003 EG11528 EG11284 EG11318 EG10274 EG12606
+GLUTATHIONESYN-PWY;glutathione biosynthesis;gshB gshA;EG10419 EG10418
+MANNCAT-PWY;D-mannose degradation;manA;EG10566
+FUCCAT-PWY;fucose degradation;fucU fucI fucK fucA;EG10355 EG10349 EG10350 EG10348
+THIOREDOX-PWY;thioredoxin pathway;trxA trxC trxB;EG11031 EG11887 EG11032
+RIBOKIN-PWY;ribose phosphorylation;rbsD rbsK;EG10817 EG10818
+PWY-5669;phosphatidylserine and phosphatidylethanolamine biosynthesis I;psd pssA;EG10775 EG10781
+PWY0-1309;chitobiose degradation;chbF chbG;EG10144 EG12198
+PWY-7180;2'-deoxy-&alpha;-D-ribose 1-phosphate degradation;mhpF adhE eutE deoC deoB;M014 EG10031 G7285 EG10221 EG10220
+PWY-7208;superpathway of pyrimidine nucleobases salvage;upp pyrG adk ndk pyrH;EG11332 EG10810 EG10032 EG10650 EG11539
+GLUCOSE1PMETAB-PWY;glucose and glucose-1-phosphate degradation;gcd glk pgm yihX ybiV yidA yigL;EG10369 EG12957 EG12144 EG11850 G6425 EG11195 EG11470
+PWY0-1314;fructose degradation;fruK;EG10337
+PWY-7196;superpathway of pyrimidine ribonucleosides salvage;adk ndk cmk pyrG pyrH upp udk cdd rihB rihA rihC;EG10032 EG10650 EG11265 EG10810 EG11539 EG11332 EG11701 EG10137 EG12030 G6358 EG11082
+PWY0-1300;2-<I>O</I>-&alpha;-mannosyl-D-glycerate degradation;glxK garK mngB;G6283 EG11175 EG13236
+ETOH-ACETYLCOA-ANA-PWY;ethanol degradation I;mhpF adhE eutE adhP;M014 EG10031 G7285 G6775
+LYXMET-PWY;L-lyxose degradation;sgbE araD sgbU lyxK rhaA;EG12287 EG10055 EG12286 EG12284 EG11867
+PWY-7193;pyrimidine ribonucleosides salvage I;udk cdd;EG11701 EG10137
+PWY0-44;D-allose degradation;alsK alsE rpiB;EG11956 EG11957 EG11827
+PWY0-1315;L-lactaldehyde degradation (anaerobic);fucO;EG10351
+PWY0-163;salvage pathways of pyrimidine ribonucleotides;cmk udk codA cdd ppnP udp adk ndk upp;EG11265 EG11701 EG11326 EG10137 EG12159 EG11045 EG10032 EG10650 EG11332
+PHESYN;L-phenylalanine biosynthesis I;tyrA pheA ilvE aspC tyrB;EG11039 EG10707 EG10497 EG10096 EG11040
+PWY0-1317;L-lactaldehyde degradation (aerobic);lldD aldA;EG11963 EG10035
+PWY-5838;superpathway of menaquinol-8 biosynthesis I;menA ubiE menI menB menH menD menF entC menC menE ispB;EG11880 EG11473 G6912 EG11368 EG12438 EG10579 EG12362 EG10261 EG11532 EG12437 EG10017
+PWY-7194;pyrimidine nucleobases salvage II;upp codA;EG11332 EG11326
+MENAQUINONESYN-PWY;menaquinol-8 biosynthesis;ubiE;EG11473
+PWY0-1533;methylphosphonate degradation I;phnP phnJ phnM phnI phnG phnH phnL;EG10725 EG10719 EG10722 EG10718 EG10716 EG10717 EG10721
+PWY-6556;pyrimidine ribonucleosides salvage II;rihB rihA rihC cdd;EG12030 G6358 EG11082 EG10137
+PWY0-181;salvage pathways of pyrimidine deoxyribonucleotides;tdk ppnP deoA cdd;EG10994 EG12159 EG10219 EG10137
+NONMEVIPP-PWY;methylerythritol phosphate pathway I;fldA fldB fdx ispG idi ispF ispE ispD ispH dxr dxs;EG10318 EG12697 EG11328 EG10370 G7508 EG11816 EG11294 G7423 EG11081 EG12715 G6237
+PWY-7205;CMP phosphorylation;adk ndk cmk;EG10032 EG10650 EG11265
+BSUBPOLYAMSYN-PWY;spermidine biosynthesis I;speD speE;EG10962 EG10963
+PWY-7195;pyrimidine ribonucleosides salvage III;codA rihC rihB rihA;EG11326 EG11082 EG12030 G6358
+PWY0-1535;D-serine degradation;dsdA;EG10249
+RHAMCAT-PWY;L-rhamnose degradation I;rhaM rhaA rhaB rhaD;EG11865 EG11867 EG11868 EG11866
+PWY-7183;pyrimidine nucleobases salvage I;upp;EG11332
+GLUTORN-PWY;L-ornithine biosynthesis I;argE gabT argD argC argB argA;EG11286 EG10361 EG10066 EG10065 EG10064 EG10063
+PWY-7222;guanosine deoxyribonucleotides <i>de novo</i> biosynthesis II;nrdH trxA trxC adk ndk nrdF nrdE nrdD nrdB nrdA;G7401 EG11031 EG11887 EG10032 EG10650 EG12381 EG20257 EG11417 EG10661 EG10660
+PWY-7187;pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis II;nrdD adk ndk tmk thyA nudI dut mazG dcd;EG11417 EG10032 EG10650 EG12302 EG11002 G7164 EG10251 EG10572 EG11418
+GLYCOLATEMET-PWY;glycolate and glyoxylate degradation I;glxK garK glxR glcF glcE glcD gcl;G6283 EG11175 G6278 G0-8601 G7544 G7545 EG11583
+GLYOXDEG-PWY;glycolate and glyoxylate degradation II;glcF glcE glcD glcB;G0-8601 G7544 G7545 EG20080
+PWY-5852;demethylmenaquinol-8 biosynthesis I;menA;EG11880
+PWY-7176;UTP and CTP <i>de novo</i> biosynthesis;pyrG adk ndk pyrH;EG10810 EG10032 EG10650 EG11539
+LCYSDEG-PWY;L-cysteine degradation II;cyuA tnaA cysM cysK malY metC;G7622 EG11005 EG10193 EG10192 EG10564 EG10583
+PWY0-541;cyclopropane fatty acid (CFA) biosynthesis;cfa;EG11531
+CYSTSYN-PWY;L-cysteine biosynthesis I;cysM cysK cysE;EG10193 EG10192 EG10187
+PWY-7346;UDP-&alpha;-D-glucuronate biosynthesis (from UDP-glucose);ugd;G7091
+PWY-7870;L-cysteine biosynthesis VII (from <i>S</i>-sulfo-L-cysteine);grxB grxC nrdH grxA cysE cysM;EG12688 EG12294 G7401 EG10417 EG10187 EG10193
+PWY0-1576;hydrogen to fumarate electron transfer;frdD frdC frdB frdA hybC hybO hybB hybA;EG10333 EG10332 EG10331 EG10330 EG11801 G7554 EG11800 EG11799
+PWY-7344;UDP-&alpha;-D-galactose biosynthesis;galE;EG10362
+PWY0-1355;formate to trimethylamine <i>N</i>-oxide electron transfer;torA torC fdoI fdoH fdoG fdnI fdnH fdnG;EG11814 EG11815 EG11856 EG11857 EG11858 EG11229 EG11228 EG11227
+PWY0-1347;NADH to trimethylamine <i>N</i>-oxide electron transfer;torA torC nuoB nuoC nuoE nuoF nuoG nuoI nuoN nuoM nuoL nuoK nuoJ nuoH nuoA;EG11814 EG11815 EG12083 EG12084 EG12086 EG11774 EG12087 EG12089 EG12093 EG11773 EG12092 EG12091 EG12090 EG12088 EG12082
+PWY-7343;UDP-&alpha;-D-glucose biosynthesis I;pgm galU;EG12144 EG11319
+PWY0-1582;glycerol-3-phosphate to fumarate electron transfer;frdD frdC frdB frdA glpC glpB glpA;EG10333 EG10332 EG10331 EG10330 EG10393 EG10392 EG10391
+PWY0-1577;hydrogen to dimethyl sulfoxide electron transfer;hyaA hyaB hyaC hybC hybO hybB hybA dmsC dmsB dmsA;EG10468 EG10469 EG10470 EG11801 G7554 EG11800 EG11799 EG10234 EG10233 EG10232
+PWY-7335;UDP-<i>N</i>-acetyl-&alpha;-D-mannosaminouronate biosynthesis;wecB wecC;EG11451 EG11452
+PWY0-1356;formate to dimethyl sulfoxide electron transfer;dmsC dmsB dmsA fdoI fdoH fdoG fdnI fdnH fdnG;EG10234 EG10233 EG10232 EG11856 EG11857 EG11858 EG11229 EG11228 EG11227
+PWY0-1348;NADH to dimethyl sulfoxide electron transfer;dmsC dmsB dmsA nuoB nuoC nuoE nuoF nuoG nuoI nuoN nuoM nuoL nuoK nuoJ nuoH nuoA;EG10234 EG10233 EG10232 EG12083 EG12084 EG12086 EG11774 EG12087 EG12089 EG12093 EG11773 EG12092 EG12091 EG12090 EG12088 EG12082
+PWY0-1321;nitrate reduction III (dissimilatory);narV narZ narY narI narH narG fdoI fdoH fdoG fdnI fdnH fdnG;EG10644 EG10648 EG10647 EG10640 EG10639 EG10638 EG11856 EG11857 EG11858 EG11229 EG11228 EG11227
+PROUT-PWY-I;proline degradation;putA;EG10801
+PWY0-1584;nitrate reduction X (dissimilatory, periplasmic);napH napG napA napB glpD;EG12062 EG12064 EG12067 EG12061 EG10394
+PWY0-1578;hydrogen to trimethylamine N-oxide electron transfer;torA torC hyaA hyaB hyaC hybC hybO hybB hybA;EG11814 EG11815 EG10468 EG10469 EG10470 EG11801 G7554 EG11800 EG11799
+PWY0-1573;nitrate reduction VIIIb (dissimilatory);narI narH narG ndh;EG10640 EG10639 EG10638 EG10649
+PWY0-1352;nitrate reduction VIII (dissimilatory);narV narZ narY narI narH narG nuoB nuoC nuoE nuoF nuoG nuoI nuoN nuoM nuoL nuoK nuoJ nuoH nuoA;EG10644 EG10648 EG10647 EG10640 EG10639 EG10638 EG12083 EG12084 EG12086 EG11774 EG12087 EG12089 EG12093 EG11773 EG12092 EG12091 EG12090 EG12088 EG12082
+PWY0-1336;NADH to fumarate electron transfer;frdD frdC frdB frdA nuoB nuoC nuoE nuoF nuoG nuoI nuoN nuoM nuoL nuoK nuoJ nuoH nuoA;EG10333 EG10332 EG10331 EG10330 EG12083 EG12084 EG12086 EG11774 EG12087 EG12089 EG12093 EG11773 EG12092 EG12091 EG12090 EG12088 EG12082
+PWY0-1585;formate to nitrite electron transfer;nrfA nrfC nrfD napC fdoI fdoH fdoG fdnI fdnH fdnG;EG11781 EG11946 EG11947 EG12060 EG11856 EG11857 EG11858 EG11229 EG11228 EG11227
+PWY0-1581;nitrate reduction IX (dissimilatory);narV narZ narY narI narH narG glpC glpB glpA;EG10644 EG10648 EG10647 EG10640 EG10639 EG10638 EG10393 EG10392 EG10391
+PWY0-1527;curcumin degradation;curA;G6760
+PWY0-1569;autoinducer AI-2 degradation;lsrG lsrK lsrF;G6805 G6798 G6804
+PWY-5084;2-oxoglutarate decarboxylation to succinyl-CoA;lpd sucB sucA;EG10543 EG10980 EG10979
+DETOX1-PWY;superoxide radicals degradation;adeD katG katE sodC sodB sodA;EG11692 EG10511 EG10509 G6886 EG10954 EG10953
+PWY0-845;superpathway of pyridoxal 5'-phosphate biosynthesis and salvage;pdxA serC pdxB pdxJ dxs epd pdxH pdxY pdxK;EG10691 EG10946 G0-9461 EG10693 G6237 EG10368 EG11487 G6879 G7259
+PWY-6897;thiamine salvage II;thiD pdxK thiL thiE thiM;G7135 G7259 G6234 EG11586 M007
+PWY0-823;L-arginine degradation III (arginine decarboxylase/agmatinase pathway);speB adiA speA;EG10960 EG11501 EG10959
+THREOCAT-PWY;superpathway of L-threonine metabolism;tdcB ilvA ilvM ilvG ilvN ilvB ilvH ilvI ilvC ilvE ilvD ackA tdcD pta pflB tdcE kbl yiaY tdh tynA mhpF adhE eutE ltaE;EG10990 EG10493 EG10501 G8221 EG10502 EG10494 EG10499 EG10500 EG10495 EG10497 EG10496 EG10027 EG11172 EG20173 EG10701 G7627 EG10512 EG12293 EG10993 EG13139 M014 EG10031 G7285 G6455
+ARGDEG-PWY;superpathway of L-arginine, putrescine, and 4-aminobutanoate degradation;patA puuC patD gabD puuE gabT sad speB adiA puuA puuB puuD;G7596 EG10036 G6755 EG11329 G6646 EG10361 G6811 EG10960 EG11501 G6644 EG11822 G6645
+AST-PWY;L-arginine degradation II (AST pathway);astE astD astC astB astA;G6940 G6942 G6944 G6941 G6943
+MET-SAM-PWY;superpathway of <i>S</i>-adenosyl-L-methionine biosynthesis;metK metL thrA asd lysC malY metC metB metH metE metA;EG10589 EG10590 EG10998 EG10088 EG10550 EG10564 EG10583 EG10582 EG10587 EG10584 EG10581
+ORNARGDEG-PWY;superpathway of L-arginine and L-ornithine degradation;puuA puuB puuC puuD patA patD speF speC gabD puuE gabT sad speB adiA;G6644 EG11822 EG10036 G6645 G7596 G6755 EG10964 EG10961 EG11329 G6646 EG10361 G6811 EG10960 EG11501
+PWY0-1465;D-malate degradation;dmlA;G6986
+PWY-7211;superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis;trxA trxC pyrG adk ndk pyrH pyrD pyrF pyrE pyrC pyrI pyrB carA carB nrdB nrdA nrdF nrdE tmk thyA nudI dut mazG;EG11031 EG11887 EG10810 EG10032 EG10650 EG11539 EG10807 EG10809 EG10808 EG10806 EG10811 EG10805 EG10134 EG10135 EG10661 EG10660 EG12381 EG20257 EG12302 EG11002 G7164 EG10251 EG10572
+PWY-5162;2-hydroxypenta-2,4-dienoate degradation;mhpF eutE mhpE mhpD;M014 G7285 G6205 M013
+PWY-6038;citrate degradation;citE citF citD;G6342 G6341 G6343
+PYRUVDEHYD-PWY;pyruvate decarboxylation to acetyl CoA;aceE lpd aceF;EG10024 EG10543 EG10025
+PRPP-PWY;superpathway of histidine, purine, and pyrimidine biosynthesis;nrdH trxA trxC prs pyrG adk ndk pyrH pyrD pyrF pyrE pyrC pyrI pyrB carA carB nrdD nrdF nrdE nrdB nrdA purB purA gmk guaA guaB purK purE purH purC purT purM purL purD purF hisG hisI hisA hisF hisH hisB hisC hisD;G7401 EG11031 EG11887 EG10774 EG10810 EG10032 EG10650 EG11539 EG10807 EG10809 EG10808 EG10806 EG10811 EG10805 EG10134 EG10135 EG11417 EG12381 EG20257 EG10661 EG10660 EG11314 EG10790 EG10965 EG10420 EG10421 EG10796 EG10793 EG10795 EG10791 EG11809 EG10798 EG10797 EG10792 EG10794 EG10449 EG10451 EG10444 EG10448 EG10450 EG10445 EG10446 EG10447
+PWY-1269;CMP-3-deoxy-D-<I>manno</I>-octulosonate biosynthesis;gutQ kdsD kdsA kdsC kdsB;EG10973 G7662 EG10518 G7663 EG10519
+PWY-6703;preQ<sub>0</sub> biosynthesis;queC queE queD folE;G6245 G7443 G7431 EG11375
+ACETATEUTIL-PWY;superpathway of acetate utilization and formation;eutD pta purT ackA acs;G7288 EG20173 EG11809 EG10027 EG11448
+GLUCARGALACTSUPER-PWY;superpathway of D-glucarate and D-galactarate degradation;glxK garK garD garR garL gudD;G6283 EG11175 EG12522 EG11176 EG10016 G7445
+PWY0-1313;acetate conversion to acetyl-CoA;acs;EG11448
+GLUCONSUPER-PWY;D-gluconate degradation;gntK idnK;EG12629 EG12152
+PWY0-162;superpathway of pyrimidine ribonucleotides <i>de novo</i> biosynthesis;pyrG adk ndk pyrH pyrD pyrF pyrE pyrC pyrI pyrB carA carB;EG10810 EG10032 EG10650 EG11539 EG10807 EG10809 EG10808 EG10806 EG10811 EG10805 EG10134 EG10135
+PWY-6164;3-dehydroquinate biosynthesis I;aroF aroH aroG aroB;EG10078 EG10080 EG10079 EG10074
+FUC-RHAMCAT-PWY;superpathway of fucose and rhamnose degradation;fucO lldD aldA rhaM rhaA rhaB rhaD fucU fucI fucK fucA;EG10351 EG11963 EG10035 EG11865 EG11867 EG11868 EG11866 EG10355 EG10349 EG10350 EG10348
+ALL-CHORISMATE-PWY;superpathway of chorismate metabolism;entF entB pabC pabA pabB folE nudB folB folK folM folA folC folP ubiE menA menI menB menH menD menF entC menC menE entE entD acpS acpT entA tyrA pheA aspC tyrB ilvE trpB trpA trpD trpE trpC aroD aroE ydiB aroK aroL aroA aroC aroF aroH aroG aroB idi ispA ispB ubiA ubiD ubiI ubiG ubiH ubiF ubiC;EG10264 EG10260 EG11493 EG10682 EG10683 EG11375 EG11138 EG11673 EG11374 G6862 EG10326 EG10327 EG50011 EG11473 EG11880 G6912 EG11368 EG12438 EG10579 EG12362 EG10261 EG11532 EG12437 EG10263 EG10262 EG10247 EG12221 EG10259 EG11039 EG10707 EG10096 EG11040 EG10497 EG11025 EG11024 EG11027 EG11028 EG11026 EG10076 EG10077 EG11234 EG10081 EG10082 EG10073 EG10075 EG10078 EG10080 EG10079 EG10074 G7508 EG10508 EG10017 EG11370 EG11396 EG11333 EG11143 EG11324 G6365 EG11369
+HOMOSER-THRESYN-PWY;L-threonine biosynthesis;thrC thrB;EG11000 EG10999
+THRESYN-PWY;superpathway of L-threonine biosynthesis;aspC thrC thrB metL thrA asd lysC;EG10096 EG11000 EG10999 EG10590 EG10998 EG10088 EG10550
+PWY0-1471;uracil degradation III;rutC rutB ydfG rutE rutD rutA;G6521 G6522 EG12345 G6519 G6520 G6523
+TCA-GLYOX-BYPASS;superpathway of glyoxylate bypass and TCA;mqo sdhA sdhB sdhC sdhD acnB acnA prpC gltA icd lpd sucB sucA sucC sucD fumE fumD fumA fumB fumC mdh maeA aceA glcB aceB;EG12069 EG10931 EG10932 EG10933 EG10934 EG12316 EG11325 G6198 EG10402 EG10489 EG10543 EG10980 EG10979 EG10981 EG10982 EG11162 G6903 EG10356 EG10357 EG10358 EG10576 EG10948 EG10022 EG20080 EG10023
+PWY0-781;aspartate superpathway;metK nadB nadA nadC nadE nadD malY metC metB metH metE metA dapB lysC metL thrA asd dapA dapD serC argD dapE lysA dapF aspC thrC thrB;EG10589 EG10631 EG10630 EG11546 EG10663 G6350 EG10564 EG10583 EG10582 EG10587 EG10584 EG10581 EG10206 EG10550 EG10590 EG10998 EG10088 EG10205 EG10207 EG10946 EG10066 EG10208 EG10549 EG10209 EG10096 EG11000 EG10999
+XYLCAT-PWY;D-xylose degradation I;xylA xylB;EG11074 EG11075
+PWY0-166;superpathway of pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis (<i>E. coli</i>);nrdH trxA trxC nrdB nrdA nrdF nrdE adk ndk tmk thyA nudI dut mazG nrdD dcd;G7401 EG11031 EG11887 EG10661 EG10660 EG12381 EG20257 EG10032 EG10650 EG12302 EG11002 G7164 EG10251 EG10572 EG11417 EG11418
+VALSYN-PWY;L-valine biosynthesis;ilvH ilvI ilvM ilvG ilvN ilvB ilvC ilvE ilvD;EG10499 EG10500 EG10501 G8221 EG10502 EG10494 EG10495 EG10497 EG10496
+GALACT-GLUCUROCAT-PWY;superpathway of hexuronide and hexuronate degradation;uidA uxaC eda kdgK uxuA uxuB uxaB uxaA;EG11055 G81 EG10256 EG12253 EG11066 EG20248 EG11065 EG12734
+PWY-5901;2,3-dihydroxybenzoate biosynthesis;entA entB entC;EG10259 EG10260 EG10261
+UBISYN-PWY;superpathway of ubiquinol-8 biosynthesis (prokaryotic);idi ispA ispB ubiA ubiD ubiI ubiG ubiH ubiE ubiF ubiC;G7508 EG10508 EG10017 EG11370 EG11396 EG11333 EG11143 EG11324 EG11473 G6365 EG11369
+PWY-5350;thiosulfate disproportionation IV (rhodanese);ygaP sseA pspE glpE;G7398 EG11600 EG10780 EG10395
+PWY-6151;<i>S</i>-adenosyl-L-methionine cycle I;metE metH metK luxS mtn;EG10584 EG10587 EG10589 EG12712 EG11090
+THREONINE-DEG2-PWY;L-threonine degradation II;kbl yiaY tdh;EG10512 EG12293 EG10993
+TRPSYN-PWY;L-tryptophan biosynthesis;trpB trpA trpD trpE trpC;EG11025 EG11024 EG11027 EG11028 EG11026
+PWY-5436;L-threonine degradation IV;mhpF adhE eutE ltaE;M014 EG10031 G7285 G6455
+PWY-5667;CDP-diacylglycerol biosynthesis I;gpsA plsB plsC cdsA;EG20091 EG10740 EG11377 EG10139
+PWY0-1319;CDP-diacylglycerol biosynthesis II;acpP plsB cdsA plsC gpsA;EG50003 EG10740 EG10139 EG11377 EG20091
+UDPNAGSYN-PWY;UDP-<i>N</i>-acetyl-D-glucosamine biosynthesis I;pgi glmM glmS glmU;EG10702 EG11553 EG10382 EG11198
+PWY0-1415;superpathway of heme <i>b</i> biosynthesis from uroporphyrinogen-III;hemG hemN hemE yfeX efeB hemH hemF;EG11485 EG11836 EG11543 G7266 EG11735 EG10431 EG12189
+HEME-BIOSYNTHESIS-II;heme <i>b</i> biosynthesis I (aerobic);hemF hemH hemG hemE;EG12189 EG10431 EG11485 EG11543
+PWY-7971;adenosylcobinamide-GDP salvage from cobinamide I;btuR cobU;EG10130 EG13238
+HEMESYN2-PWY;heme <i>b</i> biosynthesis II (anaerobic);hemG hemN hemE hemH;EG11485 EG11836 EG11543 EG10431
+COBALSYN-PWY;superpathway of adenosylcobalamin salvage from cobinamide I;btuR cobU cobT cobC cobS;EG10130 EG13238 EG12151 G6349 EG12150
+PHOSLIPSYN-PWY;superpathway of phospholipid biosynthesis I (bacteria);acpP clsC pgpC pgpB pgpA pgsA plsB cdsA plsC gpsA psd pssA clsB clsA;EG50003 G6551 EG11371 EG10705 EG10704 EG10706 EG10740 EG10139 EG11377 EG20091 EG10775 EG10781 G6406 EG11608
+PWY-6268;adenosylcobalamin salvage from cobalamin;btuR;EG10130
+PWY-46;putrescine biosynthesis III;speC;EG10961
+PWY-5437;L-threonine degradation I;tdcB ackA tdcD pta pflB tdcE;EG10990 EG10027 EG11172 EG20173 EG10701 G7627
+PWY-40;putrescine biosynthesis I;speB speA;EG10960 EG10959
+PWY0-1295;pyrimidine ribonucleosides degradation;deoB ppnP udp cdd;EG10220 EG12159 EG11045 EG10137
+THRDLCTCAT-PWY;L-threonine degradation III (to methylglyoxal);tynA yiaY tdh;EG13139 EG12293 EG10993
+PWY-6892;thiazole biosynthesis I (facultative anaerobic bacteria);thiI thiS fdx sufS iscS thiH thiF dxs thiG;G6238 G1 EG11328 G6906 G7325 EG11590 EG11587 G6237 EG11589
+PWY-7181;pyrimidine deoxyribonucleosides degradation;ppnP deoA cdd;EG12159 EG10219 EG10137
+PWY-6894;thiamine diphosphate biosynthesis I (E. coli);thiE thiL;EG11586 G6234
+PYRIDOXSYN-PWY;pyridoxal 5'-phosphate biosynthesis I;pdxA serC pdxB pdxJ dxs epd pdxH;EG10691 EG10946 G0-9461 EG10693 G6237 EG10368 EG11487
+PWY-5155;&beta;-alanine biosynthesis III;panD;EG11747
+HOMOSERSYN-PWY;L-homoserine biosynthesis;metL thrA asd lysC;EG10590 EG10998 EG10088 EG10550
+PLPSAL-PWY;pyridoxal 5'-phosphate salvage I;pdxY pdxK pdxH;G6879 G7259 EG11487
+COLANSYN-PWY;colanic acid building blocks biosynthesis;ugd galE pgm galU cpsB cpsG manA pgi fcl gmd;G7091 EG10362 EG12144 EG11319 EG10161 EG10162 EG10566 EG10702 EG11788 EG11787
+GLYSYN-PWY;glycine biosynthesis I;glyA;EG10408
+PWY-6153;autoinducer AI-2 biosynthesis I;luxS mtn;EG12712 EG11090
+SO4ASSIM-PWY;assimilatory sulfate reduction I;trxA trxC cysC cysN cysD cysI cysJ cysH;EG11031 EG11887 EG10185 EG10194 EG10186 EG10190 EG10191 EG10189
+ALKANEMONOX-PWY;two-component alkanesulfonate monooxygenase;ssuD ssuE;G6477 G6479
+SULFATE-CYS-PWY;superpathway of sulfate assimilation and cysteine biosynthesis;trxA trxC aphA serB serA serC cysM cysK cysE cysC cysN cysD cysI cysJ cysH;EG11031 EG11887 EG11934 EG10945 EG10944 EG10946 EG10193 EG10192 EG10187 EG10185 EG10194 EG10186 EG10190 EG10191 EG10189
+GLCMANNANAUT-PWY;superpathway of <i>N</i>-acetylglucosamine, <i>N</i>-acetylmannosamine and <i>N</i>-acetylneuraminate degradation;nanK nanA nanE nagA nagB;G7676 EG10637 G7677 EG10632 EG10633
+ORNDEG-PWY;superpathway of ornithine degradation;puuA puuB puuC puuD patA patD speF;G6644 EG11822 EG10036 G6645 G7596 G6755 EG10964
+PWY0-981;taurine degradation IV;tauD;EG12423
+PWY-6071;superpathway of phenylethylamine degradation;paaF paaK paaZ paaG paaJ paaB paaC paaA paaE paaH feaB tynA;G6714 G6719 G6708 G6715 G6718 G6710 G6711 G6709 G6713 G6716 G7961 EG13139
+PWY0-1477;ethanolamine utilization;adhP adhE purT ackA eutD pta mhpF eutE eutC eutB;G6775 EG10031 EG11809 EG10027 G7288 EG20173 M014 G7285 EG50007 EG50006
+PWY0-1298;superpathway of pyrimidine deoxyribonucleosides degradation;mhpF adhE eutE deoC deoB ppnP deoA cdd;M014 EG10031 G7285 EG10221 EG10220 EG12159 EG10219 EG10137
+PWY-1801;formaldehyde oxidation II (glutathione-dependent);frmA yeiG frmB;EG50010 EG12026 G6208
+GLUTSYNIII-PWY;L-glutamate biosynthesis III;gdhA;EG10372
+GLUTSYN-PWY;L-glutamate biosynthesis I;gltD gltB;EG10404 EG10403
+PWY0-1597;prenylated FMNH<sub>2</sub> biosynthesis;ubiX thiM nudJ nudF;EG11044 M007 G6580 EG12633
+RIBOSYN2-PWY;flavin biosynthesis I (bacteria and plants);ribA ribD ribB yigB ybjI ribE ribC ribF;EG11331 EG11321 EG10465 EG11202 G6442 EG11322 EG11406 EG11079
+PWY-4621;arsenate detoxification II (glutaredoxin);grxC grxB nrdH grxA arsC;EG12294 EG12688 G7401 EG10417 EG12237
+PWY0-862;(5Z)-dodecenoate biosynthesis I;acpP fabA fabZ fabB fabG fabI;EG50003 EG10273 EG11284 EG10274 EG11318 EG11528
+PWY-6284;superpathway of unsaturated fatty acids biosynthesis (<i>E. coli</i>);acpP fabI fabZ fabG fabF fabB tesA fabA;EG50003 EG11528 EG11284 EG11318 EG12606 EG10274 EG11542 EG10273
+SERDEG-PWY;L-serine degradation;tdcG sdaA tdcB sdaB;G7624 EG10930 EG10990 EG11623
+PWY-5973;<i>cis</i>-vaccenate biosynthesis;acpP fabI fabZ fabG fabF fabB tesA;EG50003 EG11528 EG11284 EG11318 EG12606 EG10274 EG11542
+GLYCOLYSIS;glycolysis I (from glucose 6-phosphate);gpmA yggF ybhA glpX fbp ppsA pgi pfkA pfkB fbaB fbaA tpiA gapA pgk gpmM eno pykF pykA;EG11699 EG11245 EG11239 EG11517 EG10283 EG10759 EG10702 EG10699 EG10700 G7129 EG10282 EG11015 EG10367 EG10703 EG12296 EG10258 EG10804 EG10803
+SERSYN-PWY;L-serine biosynthesis I;serB serA serC;EG10945 EG10944 EG10946
+PWY-5484;glycolysis II (from fructose 6-phosphate);gpmA phoA yggF ybhA glpX fbp ppsA pfkA pfkB fbaB fbaA tpiA gapA pgk gpmM eno pykF pykA;EG11699 EG10727 EG11245 EG11239 EG11517 EG10283 EG10759 EG10699 EG10700 G7129 EG10282 EG11015 EG10367 EG10703 EG12296 EG10258 EG10804 EG10803
+GLYCOGENSYNTH-PWY;glycogen biosynthesis I (from ADP-D-Glucose);pgm glgC glgB glgA;EG12144 EG10379 EG10378 EG10377
+PWY-6708;ubiquinol-8 biosynthesis (prokaryotic);ubiA ubiD ubiI ubiG ubiH ubiE ubiF;EG11370 EG11396 EG11333 EG11143 EG11324 EG11473 G6365
+PWY-5966;fatty acid biosynthesis initiation II;acpP fabH fabF fabB;EG50003 EG10277 EG12606 EG10274
+TRESYN-PWY;trehalose biosynthesis I;otsB otsA;EG11752 EG11751
+FASYN-INITIAL-PWY;superpathway of fatty acid biosynthesis initiation (E. coli);acpP fabH fabF fabB accD accA fabD;EG50003 EG10277 EG12606 EG10274 EG10217 EG11647 EG11317
+PWY0-881;superpathway of fatty acid biosynthesis I (E. coli);acpP fabI fabF fabB fabG fabZ fabA fabH accD accA fabD;EG50003 EG11528 EG12606 EG10274 EG11318 EG11284 EG10273 EG10277 EG10217 EG11647 EG11317
+PWY0-1568;NADH to cytochrome <i>bd</i> oxidase electron transfer II;cydX cydB cydA ndh;G0-10441 EG10174 EG10173 EG10649
+PWY-4381;fatty acid biosynthesis initiation I;acpP accD accA fabH fabD;EG50003 EG10217 EG11647 EG10277 EG11317
+PWY0-1561;glycerol-3-phosphate to cytochrome <i>bo</i> oxidase electron transfer;cyoC cyoB cyoA cyoD glpD;EG10180 EG10179 EG10178 EG10181 EG10394
+PWY-5965;fatty acid biosynthesis initiation III;acpP fabB fabF;EG50003 EG10274 EG12606
+PWY0-1335;NADH to cytochrome <i>bo</i> oxidase electron transfer I;cyoC cyoB cyoA cyoD nuoB nuoC nuoE nuoF nuoG nuoI nuoN nuoM nuoL nuoK nuoJ nuoH nuoA;EG10180 EG10179 EG10178 EG10181 EG12083 EG12084 EG12086 EG11774 EG12087 EG12089 EG12093 EG11773 EG12092 EG12091 EG12090 EG12088 EG12082
+FASYN-ELONG-PWY;fatty acid elongation -- saturated;acpP fabI fabF fabB fabG fabZ fabA;EG50003 EG11528 EG12606 EG10274 EG11318 EG11284 EG10273
+PWY-7545;pyruvate to cytochrome <i>bd</i> oxidase electron transfer;cydX cydB cydA poxB;G0-10441 EG10174 EG10173 EG10754
+GLUTAMINDEG-PWY;L-glutamine degradation I;glsA glsB hisF hisH guaA pyrG carA carB asnB gltD gltB;G6261 G6810 EG10448 EG10450 EG10420 EG10810 EG10134 EG10135 EG10092 EG10404 EG10403
+PWY0-1565;D-lactate to cytochrome <i>bo</i> oxidase electron transfer;cyoC cyoB cyoA cyoD dld;EG10180 EG10179 EG10178 EG10181 EG10231
+CARNMET-PWY;L-carnitine degradation I;caiC caiD caiB caiA;EG11558 EG11557 EG11559 EG11560
+PWY0-1353;succinate to cytochrome <i>bd</i> oxidase electron transfer;cydX cydB cydA sdhA sdhB sdhC sdhD;G0-10441 EG10174 EG10173 EG10931 EG10932 EG10933 EG10934
+PWY-7805;(aminomethyl)phosphonate degradation;phoA ppa apt phnN phnP phnJ phnM phnI phnG phnH phnL phnO;EG10727 EG10755 EG10051 EG10723 EG10725 EG10719 EG10722 EG10718 EG10716 EG10717 EG10721 EG10724
+PWY0-1329;succinate to cytochrome <i>bo</i> oxidase electron transfer;sdhA sdhB sdhC sdhD cyoC cyoB cyoA cyoD;EG10931 EG10932 EG10933 EG10934 EG10180 EG10179 EG10178 EG10181
+PWY0-1567;NADH to cytochrome <i>bo</i> oxidase electron transfer II;cyoC cyoB cyoA cyoD ndh;EG10180 EG10179 EG10178 EG10181 EG10649
+PWY0-1544;proline to cytochrome <i>bo</i> oxidase electron transfer;putA cyoC cyoB cyoA cyoD;EG10801 EG10180 EG10179 EG10178 EG10181
+TYRSYN;L-tyrosine biosynthesis I;tyrA pheA aspC tyrB;EG11039 EG10707 EG10096 EG11040
+PWY0-1334;NADH to cytochrome <i>bd</i> oxidase electron transfer I;cydX cydB cydA nuoB nuoC nuoE nuoF nuoG nuoI nuoN nuoM nuoL nuoK nuoJ nuoH nuoA;G0-10441 EG10174 EG10173 EG12083 EG12084 EG12086 EG11774 EG12087 EG12089 EG12093 EG11773 EG12092 EG12091 EG12090 EG12088 EG12082
+PWY-7544;pyruvate to cytochrome <i>bo</i> oxidase electron transfer;cyoC cyoB cyoA cyoD poxB;EG10180 EG10179 EG10178 EG10181 EG10754
+LPSSYN-PWY;superpathway of lipopolysaccharide biosynthesis;acpP waaU waaJ waaO waaB waaY waaQ waaP waaG waaF waaC lpxM lpxL waaA gutQ kdsD kdsA kdsC kdsB lpxA lpxC lpxD lpxH lpxK lpxB;EG50003 EG11423 EG11353 EG11352 EG11351 EG11425 EG11341 EG11340 EG11339 EG12210 EG11189 EG10614 EG10464 EG10520 EG10973 G7662 EG10518 G7663 EG10519 EG10545 EG10265 EG10316 EG12666 EG11409 EG10546
+PWY-6121;5-aminoimidazole ribonucleotide biosynthesis I;purM purL purN purD purF;EG10798 EG10797 EG10799 EG10792 EG10794
+KDO-LIPASYN-PWY;(Kdo)<sub>2</sub>-lipid A biosynthesis I;acpP lpxM lpxL;EG50003 EG10614 EG10464
+DTDPRHAMSYN-PWY;dTDP-L-rhamnose biosynthesis;rffH rfbA rfbB rfbD rfbC;EG11454 EG11978 EG12412 EG12411 EG11979
+NAGLIPASYN-PWY;lipid IV<sub>A</sub> biosynthesis;acpP lpxA lpxC lpxD lpxH lpxK lpxB;EG50003 EG10545 EG10265 EG10316 EG12666 EG11409 EG10546
+PWY-6277;superpathway of 5-aminoimidazole ribonucleotide biosynthesis;purT purM purL purD purF purN;EG11809 EG10798 EG10797 EG10792 EG10794 EG10799
+KDO-NAGLIPASYN-PWY;superpathway of (Kdo)<SUB>2</SUB>-lipid A biosynthesis;acpP gutQ kdsD kdsA kdsC kdsB lpxM lpxP lpxL lpxA lpxC lpxD lpxH lpxK lpxB waaA;EG50003 EG10973 G7662 EG10518 G7663 EG10519 EG10614 G7241 EG10464 EG10545 EG10265 EG10316 EG12666 EG11409 EG10546 EG10520
+PWY-7315;dTDP-<i>N</i>-acetylthomosamine biosynthesis;rffG rfbB rffH rfbA wecE rffC;EG11453 EG12412 EG11454 EG11978 EG11456 EG11455
+PWY0-1264;biotin-carboxyl carrier protein assembly;accD accA accC birA;EG10217 EG11647 EG10276 EG10123
+PWY-6122;5-aminoimidazole ribonucleotide biosynthesis II;purT purM purL purD purF;EG11809 EG10798 EG10797 EG10792 EG10794
+LIPA-CORESYN-PWY;lipid A-core biosynthesis (<i>E. coli</i> K-12);waaU waaJ waaO waaB waaY waaQ waaP waaG waaF waaC;EG11423 EG11353 EG11352 EG11351 EG11425 EG11341 EG11340 EG11339 EG12210 EG11189
+PWY0-1277;3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation;mhpF adhE eutE mhpE mhpD hcaE hcaF hcaD hcaC hcaB mhpA mhpB mhpC;M014 EG10031 G7285 G6205 M013 M009 M015 G7336 G7334 G7335 M010 M011 M012
+PWY-6910;hydroxymethylpyrimidine salvage;thiD pdxK;G7135 G7259
+TCA;TCA cycle I (prokaryotic);mqo sdhA sdhB sdhC sdhD acnB acnA gltA icd lpd sucB sucA sucC sucD fumE fumD fumA fumB fumC mdh maeA;EG12069 EG10931 EG10932 EG10933 EG10934 EG12316 EG11325 EG10402 EG10489 EG10543 EG10980 EG10979 EG10981 EG10982 EG11162 G6903 EG10356 EG10357 EG10358 EG10576 EG10948
+ALADEG-PWY;L-alanine degradation I;dadA dadX alr;EG11407 EG11408 EG10001
+4AMINOBUTMETAB-PWY;superpathway of 4-aminobutanoate degradation;gabD puuE gabT puuC sad;EG11329 G6646 EG10361 EG10036 G6811
+TRYPDEG-PWY;L-tryptophan degradation II (via pyruvate);tnaA;EG11005
+PWY-6535;4-aminobutanoate degradation I;puuC sad puuE;EG10036 G6811 G6646
+PWY-5668;cardiolipin biosynthesis I;pgsA clsB clsA pgpC pgpB pgpA;EG10706 G6406 EG11608 EG11371 EG10705 EG10704
+PWY-6537;4-aminobutanoate degradation II;gabD gabT;EG11329 EG10361
+PWY0-1545;cardiolipin biosynthesis III;clsC pgpC pgpB pgpA pgsA;G6551 EG11371 EG10705 EG10704 EG10706
+ACETOACETATE-DEG-PWY;acetoacetate degradation (to acetyl CoA);ydiF atoD atoA atoB;EG12432 EG11669 EG11670 EG11672
+PWY-5686;UMP biosynthesis I;pyrD pyrF pyrE pyrC pyrI pyrB carA carB;EG10807 EG10809 EG10808 EG10806 EG10811 EG10805 EG10134 EG10135
+PWY-4261;glycerol degradation I;glpC glpB glpA glpD glpK;EG10393 EG10392 EG10391 EG10394 EG10398
+PWY0-1312;acetate and ATP formation from acetyl-CoA I;eutD pta ackA;G7288 EG20173 EG10027
+PWY0-1021;L-alanine biosynthesis III;sufS iscS;G6906 G7325
+FERMENTATION-PWY;mixed acid fermentation;icd acnB gltA frdD frdC frdB frdA hycD hycC hycF hycG hycB hycE fdhF ppc mdh maeA fumE fumD fumA fumB fumC ldhA pykF pykA adhP adhE eutE pflB tdcE ackA eutD pta;EG10489 EG12316 EG10402 EG10333 EG10332 EG10331 EG10330 EG10477 EG10476 EG10479 EG10480 EG10475 EG10478 EG10285 EG10756 EG10576 EG10948 EG11162 G6903 EG10356 EG10357 EG10358 G592 EG10804 EG10803 G6775 EG10031 G7285 EG10701 G7627 EG10027 G7288 EG20173
+PWY0-1061;superpathway of L-alanine biosynthesis;alaC alaA alaB sufS iscS avtA dadX alr ilvE;G7242 G7184 G0-9281 G6906 G7325 EG10107 EG11408 EG10001 EG10497
+ALANINE-SYN2-PWY;L-alanine biosynthesis II;alaC alaA;G7242 G7184
+ALANINE-VALINESYN-PWY;L-alanine biosynthesis I;avtA dadX alr ilvE;EG10107 EG11408 EG10001 EG10497
+PWY-5755;4-hydroxybenzoate biosynthesis II (bacteria);ubiC;EG11369
+PWY0-1182;trehalose degradation II (cytosolic);glk treF;EG12957 EG12245
+PWY0-1466;trehalose degradation VI (periplasmic);treA;EG11017
+GLYOXYLATE-BYPASS;glyoxylate cycle;acnB acnA gltA aceA aceB mdh maeA;EG12316 EG11325 EG10402 EG10022 EG10023 EG10576 EG10948
+PWY0-1517;sedoheptulose bisphosphate bypass;fbaA pfkA;EG10282 EG10699
+TREDEGLOW-PWY;trehalose degradation I (low osmolarity);glk treC;EG12957 EG11402
+GLYCOLYSIS-E-D;superpathway of glycolysis and the Entner-Doudoroff pathway;pgl zwf gpmA yggF ybhA glpX fbp ppsA pgi pfkA pfkB fbaB fbaA tpiA gapA pgk gpmM eno pykF pykA edd eda;G6397 EG11221 EG11699 EG11245 EG11239 EG11517 EG10283 EG10759 EG10702 EG10699 EG10700 G7129 EG10282 EG11015 EG10367 EG10703 EG12296 EG10258 EG10804 EG10803 EG10257 EG10256
+PWY-6519;8-amino-7-oxononanoate biosynthesis I;acpP bioF fabB bioC fabG fabZ fabI bioH;EG50003 EG10121 EG10274 EG10119 EG11318 EG11284 EG11528 EG10122
+GLYCOLYSIS-TCA-GLYOX-BYPASS;superpathway of glycolysis, pyruvate dehydrogenase, TCA, and glyoxylate bypass;lpd aceF aceE gpmA yggF ybhA glpX fbp ppsA pgi pfkA pfkB fbaB fbaA tpiA gapA pgk gpmM eno pykF pykA mqo sdhA sdhB sdhC sdhD acnB acnA prpC gltA icd sucB sucA sucC sucD fumE fumD fumA fumB fumC mdh maeA aceA glcB aceB;EG10543 EG10025 EG10024 EG11699 EG11245 EG11239 EG11517 EG10283 EG10759 EG10702 EG10699 EG10700 G7129 EG10282 EG11015 EG10367 EG10703 EG12296 EG10258 EG10804 EG10803 EG12069 EG10931 EG10932 EG10933 EG10934 EG12316 EG11325 G6198 EG10402 EG10489 EG10980 EG10979 EG10981 EG10982 EG11162 G6903 EG10356 EG10357 EG10358 EG10576 EG10948 EG10022 EG20080 EG10023
+ARO-PWY;chorismate biosynthesis I;aroD aroE ydiB aroK aroL aroA aroC aroF aroH aroG aroB;EG10076 EG10077 EG11234 EG10081 EG10082 EG10073 EG10075 EG10078 EG10080 EG10079 EG10074
+PWY-6163;chorismate biosynthesis from 3-dehydroquinate;aroD aroE aroK aroL aroA aroC;EG10076 EG10077 EG10081 EG10082 EG10073 EG10075
+PWY-5194;siroheme biosynthesis;cysG;EG10188
+PWY0-1338;polymyxin resistance;arnT arnD arnC arnB arnA;G7170 G7169 G7167 G7166 G7168
+PWY0-1275;lipoate biosynthesis and incorporation II;fdx lipA lplA;EG11328 EG11306 EG11796
+PWY0-501;lipoate biosynthesis and incorporation I;acpP fdx lipB lipA;EG50003 EG11328 EG11591 EG11306
+PWY0-522;lipoate salvage I;lplA;EG11796
+PWY0-1534;hydrogen sulfide biosynthesis I;sseA aspC;EG11600 EG10096
+BGALACT-PWY;lactose degradation III;lacZ;EG10527
+ILEUSYN-PWY;L-isoleucine biosynthesis I (from threonine);ilvA ilvM ilvG ilvH ilvI ilvC ilvE ilvD;EG10493 EG10501 G8221 EG10499 EG10500 EG10495 EG10497 EG10496
+PWY0-1261;anhydromuropeptides recycling I;murB murA mpl mepS ldcA glmU glmM nagA amiD ampD nagZ anmK murQ;EG11205 EG11358 EG12440 G7147 G6621 EG11198 EG11553 EG10632 G6452 EG10041 G6567 G6880 G7263
+2PHENDEG-PWY;phenylethylamine degradation I;feaB tynA;G7961 EG13139
+ENTNER-DOUDOROFF-PWY;Entner-Doudoroff shunt;edd eda;EG10257 EG10256
+PWY-5509;adenosylcobalamin biosynthesis from adenosylcobinamide-GDP I;cobT cobC cobS;EG12151 G6349 EG12150
+PWY-6690;cinnamate and 3-hydroxycinnamate degradation to 2-hydroxypentadienoate;mhpA hcaB mhpC mhpB hcaE hcaF hcaD hcaC;M010 G7335 M012 M011 M009 M015 G7336 G7334
+PWY-6952;glycerophosphodiester degradation;glpC glpB glpA glpD ugpQ glpQ;EG10393 EG10392 EG10391 EG10394 EG11050 EG10399
+HCAMHPDEG-PWY;3-phenylpropanoate and 3-(3-hydroxyphenyl)propanoate degradation to 2-hydroxypentadienoate;hcaE hcaF hcaD hcaC hcaB mhpA mhpB mhpC;M009 M015 G7336 G7334 G7335 M010 M011 M012
+PWY0-521;fructoselysine and psicoselysine degradation;frlC frlD frlB;G7724 G7726 G7723
+PWY0-1546;muropeptide degradation;pepD ycjG mpaA mepS ldcA;EG10695 G6661 G6662 G7147 G6621
+PENTOSE-P-PWY;pentose phosphate pathway;gnd zwf pgl rpiA rpiB rpe tktB tktA talA talB;EG10411 EG11221 G6397 EG11443 EG11827 M004 EG12100 EG11427 EG11797 EG11556
+PWY0-1550;PyrSR Two-Component Signal Transduction System;pyrR pyrS;G7244 G7243
+NONOXIPENT-PWY;pentose phosphate pathway (non-oxidative branch);rpiA rpiB rpe tktB tktA talA talB;EG11443 EG11827 M004 EG12100 EG11427 EG11797 EG11556
+PWY0-381;glycerol and glycerophosphodiester degradation;glpC glpB glpA glpD ugpQ glpQ glpK;EG10393 EG10392 EG10391 EG10394 EG11050 EG10399 EG10398
+OXIDATIVEPENT-PWY;pentose phosphate pathway (oxidative branch) I;gnd zwf pgl;EG10411 EG11221 G6397
+PROSYN-PWY;L-proline biosynthesis I;proB proA proC;EG10768 EG10767 EG10769
+GLYCEROLMETAB-PWY;glycerol degradation V;dhaM dhaL dhaK gldA;EG12399 G6626 G6627 EG11904
+PWY0-1498;ZraSR Two-Component Signal Transduction System;zraS zraR;EG10008 EG10482
+GLYCOL-GLYOXDEG-PWY;superpathway of glycol metabolism and degradation;fucO aldA glcF glcE glcD glcB aceB glxK garK glxR gcl;EG10351 EG10035 G0-8601 G7544 G7545 EG20080 EG10023 G6283 EG11175 G6278 EG11583
+PWY0-1493;Rcs Signal Transduction System;rcsD rcsB rcsC;EG12385 EG10821 EG10822
+PWY0-1280;ethylene glycol degradation;fucO aldA;EG10351 EG10035
+PWY0-1515;NarX Two-Component Signal Transduction System, nitrate dependent;narL narX narP;EG10643 EG10646 EG11527
+PWY0-1241;ADP-L-<i>glycero</i>-&beta;-D-<i>manno</i>-heptose biosynthesis;gmhA rfaD gmhB hldE;G6106 EG10838 EG11736 G7590
+PWY0-1487;CreCB Two-Component Signal Transduction System;creC creB;EG10730 EG11218
+GALACTMETAB-PWY;galactose degradation I (Leloir pathway);galM galU galE galT galK;EG11698 EG11319 EG10362 EG10366 EG10363
+OANTIGEN-PWY;<i>O</i>-antigen building blocks biosynthesis (<i>E. coli</i>);pgi glmM glmS glmU rffH rfbA rffG rfbB rfbD rfbC glf;EG10702 EG11553 EG10382 EG11198 EG11454 EG11978 EG11453 EG12412 EG12411 EG11979 EG11981
+PWY0-1509;NtrBC Two-Component Signal Transduction System, nitrogen-dependent;glnL glnG;EG10387 EG10385
+PWY0-1482;BasSR Two-Component Signal Transduction System;basS basR;EG11614 EG11615
+KDOSYN-PWY;Kdo transfer to lipid IV<sub>A</sub> I;waaA;EG10520
+ECASYN-PWY;enterobacterial common antigen biosynthesis;wzxE wecB wecC rffG rffH rfbA wecE rffC rfe wecF rffM;EG11486 EG11451 EG11452 EG11453 EG11454 EG11978 EG11456 EG11455 EG10840 G7800 EG11458
+PWY0-1503;GlrKR Two-Component Signal Transduction System;glrK glrR;G7345 EG11285
+PWY0-662;PRPP biosynthesis;prs;EG10774
+PWY0-1470;QseBC Two-Component Signal Transduction System, quorum sensing related;qseC qseB;EG12658 G7575
+GLUAMCAT-PWY;<i>N</i>-acetylglucosamine degradation I;nagA nagB;EG10632 EG10633
+PWY0-1559;BtsSR Two-Component Signal Transduction System;btsS btsR;EG12007 EG12006
+PWY0-1499;DpiBA Two-Component Signal Transduction System;dpiB dpiA;G6345 G6346
+METHGLYUT-PWY;superpathway of methylglyoxal degradation;lldD aldA gldA yqhD yeaE dkgA dkgB gpr dld gloC yeiG gloB gloA;EG11963 EG10035 EG11904 G7564 G6967 G7565 EG11648 G7558 EG10231 G6475 EG12026 G6099 G6891
+SALVADEHYPOX-PWY;adenosine nucleotides degradation II;phoA ushA umpG umpH aphA xdhC xdhB xdhA add ppnP xapA deoD;EG10727 EG11060 EG11817 EG10634 EG11934 G7487 G7486 G7485 EG10030 EG12159 G85 EG10222
+PWY0-321;phenylacetate degradation I (aerobic);paaF paaK paaZ paaG paaJ paaB paaC paaA paaE paaH;G6714 G6719 G6708 G6715 G6718 G6710 G6711 G6709 G6713 G6716
+AMMASSIM-PWY;ammonia assimilation cycle III;gltD gltB glnA;EG10404 EG10403 EG10383
+NRI-PWY;Nitrogen Regulation Two-Component System;glnK glnB glnL glnG glnD glnA glnE;EG12191 EG10384 EG10387 EG10385 EG11411 EG10383 EG11602
+GLNSYN-PWY;L-glutamine biosynthesis I;glnA;EG10383
+PWY-6617;adenosine nucleotides degradation III;ppnN amn;EG12373 EG10039
+PWY0-1296;purine ribonucleosides degradation;deoB ppnP xapA deoD add;EG10220 EG12159 G85 EG10222 EG10030
+PWY0-1495;KdpDE Two-Component Signal Transduction System, potassium-dependent;kdpD kdpE;EG10516 EG10517
+PWY-6282;palmitoleate biosynthesis I (from (5Z)-dodec-5-enoate);acpP tesA fabB fabG fabZ fabI;EG50003 EG11542 EG10274 EG11318 EG11284 EG11528
+PWY0-1490;EvgSA Two-Component Signal Transduction System;evgS evgA;EG11610 EG11609
+PWY0-1518;Chemotactic Two-Component Signal Transduction;cheA cheB cheY;EG10146 EG10147 EG10150
+PWY-7197;pyrimidine deoxyribonucleotide phosphorylation;adk ndk cmk tmk;EG10032 EG10650 EG11265 EG12302
+PWY-6543;4-aminobenzoate biosynthesis;pabC pabA pabB;EG11493 EG10682 EG10683
+PWY-7206;pyrimidine deoxyribonucleotides dephosphorylation;nudG nudI dut mazG;G6954 G7164 EG10251 EG10572
+PWY-6612;superpathway of tetrahydrofolate biosynthesis;pabC pabA pabB folE nudB folB folK folM folA folC folP;EG11493 EG10682 EG10683 EG11375 EG11138 EG11673 EG11374 G6862 EG10326 EG10327 EG50011
+PWY-7801;N-end rule pathway I (prokaryotic);leuZ leuP leuU leuX leuT leuW leuQ leuV aat;EG30054 EG30047 EG30050 EG30053 EG30049 EG30052 EG30048 EG30051 EG11112
+1CMET2-PWY;<i>N</i><sup>10</sup>-formyl-tetrahydrofolate biosynthesis;thyA glyA folD gcvT gcvH gcvP lpd metH metF fau folM folA;EG11002 EG10408 EG10328 EG11442 EG10371 EG11810 EG10543 EG10587 EG10585 EG11158 G6862 EG10326
+PWY-7184;pyrimidine deoxyribonucleotides <i>de novo</i> biosynthesis I;trxA trxC nrdB nrdA nrdF nrdE adk ndk tmk thyA nudI dut mazG;EG11031 EG11887 EG10661 EG10660 EG12381 EG20257 EG10032 EG10650 EG12302 EG11002 G7164 EG10251 EG10572
+PWY-6614;tetrahydrofolate biosynthesis;folM folA folC folP;G6862 EG10326 EG10327 EG50011
+PWY0-1512;CusSR Two-Component Signal Transduction System;cusR cusS;G6319 G6318
+PWY-2161;folate polyglutamylation;folC glyA;EG10327 EG10408
+PWY-6019;pseudouridine degradation;psuK psuG;EG11646 EG12033
+PWY-7179;purine deoxyribonucleosides degradation I;add deoD;EG10030 EG10222
+PWY0-1483;PhoRB Two-Component Signal Transduction System, phosphate-dependent;phoR phoB;EG10733 EG10728
+PWY0-1474;AtoSC Two-Component Signal Transduction System;atoS atoC;EG11667 EG11668
+PWY0-1505;ArcAB Two-Component Signal Transduction System, quinone dependent;arcB arcA;EG10062 EG10061
+PANTOSYN-PWY;superpathway of coenzyme A biosynthesis I (bacteria);panD dfp coaE coaD coaA panB ilvC panE panC;EG11747 EG10004 EG12312 EG11190 EG10922 EG11675 EG10495 G6239 EG11746
+COMPLETE-ARO-PWY;superpathway of aromatic amino acid biosynthesis;tyrA pheA aspC tyrB ilvE trpB trpA trpD trpE trpC aroD aroE ydiB aroK aroL aroA aroC aroF aroH aroG aroB;EG11039 EG10707 EG10096 EG11040 EG10497 EG11025 EG11024 EG11027 EG11028 EG11026 EG10076 EG10077 EG11234 EG10081 EG10082 EG10073 EG10075 EG10078 EG10080 EG10079 EG10074
+P4-PWY;superpathway of L-lysine, L-threonine and L-methionine biosynthesis I;malY metC metB metH metE metA dapB lysC metL thrA asd dapA dapD serC argD dapE lysA dapF aspC thrC thrB;EG10564 EG10583 EG10582 EG10587 EG10584 EG10581 EG10206 EG10550 EG10590 EG10998 EG10088 EG10205 EG10207 EG10946 EG10066 EG10208 EG10549 EG10209 EG10096 EG11000 EG10999
+ENTBACSYN-PWY;enterobactin biosynthesis;entF entB entE entD acpS acpT entA menF entC;EG10264 EG10260 EG10263 EG10262 EG10247 EG12221 EG10259 EG12362 EG10261
+PWY0-1297;superpathway of purine deoxyribonucleosides degradation;mhpF adhE eutE deoC deoB add deoD;M014 EG10031 G7285 EG10221 EG10220 EG10030 EG10222
+ASPASN-PWY;superpathway of L-aspartate and L-asparagine biosynthesis;iaaA ansA ansB asnA asnB aspC aspA;EG12407 EG10045 EG10046 EG10091 EG10092 EG10096 EG10095
+SER-GLYSYN-PWY;superpathway of L-serine and glycine biosynthesis I;glyA serB serA serC;EG10408 EG10945 EG10944 EG10946
+PWY0-1588;HprSR Two-Component Signal Transduction System;hprS hprR;G7056 G7057
+BRANCHED-CHAIN-AA-SYN-PWY;superpathway of branched chain amino acid biosynthesis;tdcB ilvA ilvM ilvG ilvN ilvB ilvH ilvI ilvC ilvE ilvD leuD leuC leuA tyrB dmlA leuB;EG10990 EG10493 EG10501 G8221 EG10502 EG10494 EG10499 EG10500 EG10495 EG10497 EG10496 EG11575 EG11576 EG11226 EG11040 G6986 EG11577
+PWY0-1500;EnvZ  Two-Component Signal Transduction System, osmotic responsive;envZ ompR;EG10269 EG10672
+PWY-6387;UDP-<i>N</i>-acetylmuramoyl-pentapeptide biosynthesis I (<i>meso</i>-diaminopimelate containing);ddlB ddlA murE murI murD murC murF murB murA;EG10214 EG10213 EG10621 EG11204 EG10620 EG10619 EG10622 EG11205 EG11358
+PWY0-1458;PhoQP Two-Component Signal Transduction System, magnesium-dependent;phoQ phoP;EG10732 EG10731
+PWY0-1497;RstBA Two-Component Signal Transduction System;rstB rstA;EG11233 G6864
+PWY0-1519;Aerotactic Two-Component Signal Transduction System;cheA cheY;EG10146 EG10150
+PWY0-1492;UhpBA Two Component Signal Transduction System;uhpB uhpA;EG11052 EG11051
+PWY-7220;adenosine deoxyribonucleotides <i>de novo</i> biosynthesis II;nrdH trxA trxC nrdD ndk nrdF nrdE nrdB nrdA;G7401 EG11031 EG11887 EG11417 EG10650 EG12381 EG20257 EG10661 EG10660
+PWY0-1514;NarQ Two-Component Signal Transduction System, nitrate dependent;narL narQ narP;EG10643 EG11460 EG11527
+PWY0-43;conversion of succinate to propanoate;scpC scpB scpA;G7517 G7516 EG11444
+PWY0-1485;CpxAR Two-Component Signal Transduction System;cpxA cpxR;EG10163 EG10020
+DENOVOPURINE2-PWY;superpathway of purine nucleotides <i>de novo</i> biosynthesis II;nrdH trxA trxC nrdD ndk nrdF nrdE nrdB nrdA adk purB purA gmk guaA guaB purK purE purH purC purT purM purL purD purF;G7401 EG11031 EG11887 EG11417 EG10650 EG12381 EG20257 EG10661 EG10660 EG10032 EG11314 EG10790 EG10965 EG10420 EG10421 EG10796 EG10793 EG10795 EG10791 EG11809 EG10798 EG10797 EG10792 EG10794
+PWY-6961;L-ascorbate degradation II (bacterial, aerobic);sgbE sgbU sgbH yiaK lyxK;EG12287 EG12286 EG12285 EG12279 EG12284
+PWY-6125;superpathway of guanosine nucleotides <i>de novo</i> biosynthesis II;nrdH trxA trxC adk ndk nrdF nrdE nrdD nrdB nrdA gmk guaA guaB;G7401 EG11031 EG11887 EG10032 EG10650 EG12381 EG20257 EG11417 EG10661 EG10660 EG10965 EG10420 EG10421
+PWY0-1506;TorTSR Signal Transduction System, TMAO dependent;torS torR;G6514 EG12615
+PWY-6126;superpathway of adenosine nucleotides <i>de novo</i> biosynthesis II;nrdH trxA trxC nrdD ndk nrdF nrdE nrdB nrdA adk purB purA;G7401 EG11031 EG11887 EG11417 EG10650 EG12381 EG20257 EG10661 EG10660 EG10032 EG11314 EG10790
+PWY0-301;L-ascorbate degradation I (bacterial, anaerobic);ulaG ulaF ulaD ulaE;G7855 G7860 G7858 G7859
+PWY0-1468;DcuSR Two-Component Signal Transduction System, dicarboxylate-dependent;dcuS dcuR;G7827 G7826
+PWY0-1481;BaeSR Two-Component Signal Transduction System;baeS baeR;EG11617 EG11618
+BETSYN-PWY;glycine betaine biosynthesis I (Gram-negative bacteria);betB betA;EG10110 EG10109
+PWY0-1501;BarA UvrY Two-Component Signal Transduction System;barA uvrY;EG11367 EG11140
+POLYAMSYN-PWY;superpathway of polyamine biosynthesis I;ldcC cadA speE speD speF speC speB adiA speA;G6094 EG10131 EG10963 EG10962 EG10964 EG10961 EG10960 EG11501 EG10959
+PWY0-1299;arginine dependent acid resistance;adiA;EG11501
+PWY-4121;glutathionylspermidine biosynthesis;gss;EG12882
+PWY0-1305;L-glutamate degradation IX (via 4-aminobutanoate);gadB gadA;EG11490 EG50009
+PWY0-1303;aminopropylcadaverine biosynthesis;ldcC cadA speE;G6094 EG10131 EG10963
+PWY0-1601;cadaverine biosynthesis;ldcC cadA;G6094 EG10131
+ARG+POLYAMINE-SYN;superpathway of arginine and polyamine biosynthesis;argE gabT astC argD argC argB argA carA carB argF argI argH argG ldcC cadA speE speD speF speC speB adiA speA;EG11286 EG10361 G6944 EG10066 EG10065 EG10064 EG10063 EG10134 EG10135 EG10067 EG10069 EG11223 EG10068 G6094 EG10131 EG10963 EG10962 EG10964 EG10961 EG10960 EG11501 EG10959
+CYANCAT-PWY;cyanate degradation;cynS cynT;EG10175 EG10176
+PWY-6620;guanine and guanosine salvage;ppnP xapA deoD hpt gpt;EG12159 G85 EG10222 EG20098 EG10414
+PWY0-1324;<i>N</i>-acetylneuraminate and <i>N</i>-acetylmannosamine degradation I;nanK nanA nanE;G7676 EG10637 G7677
+PWY-6579;superpathway of guanine and guanosine salvage;gsk ppnP xapA deoD hpt gpt;EG11102 EG12159 G85 EG10222 EG20098 EG10414
+PWY0-1587;N<sup>6</sup>-L-threonylcarbamoyladenosine<sup>37</sup>-modified tRNA biosynthesis;tsaC tsaB tsaD tsaE;G7698 G6991 EG11171 EG11757
+PWY-6618;guanine and guanosine salvage III;gsk;EG11102
+PWY-7892;tRNA-uridine 2-thiolation (bacteria);mnmG mnmE tusD tusC tusB tusE tusA sufS iscS mnmA mnmC;EG10375 EG10997 G7714 G7713 G7712 EG12876 EG12216 G6906 G7325 EG11344 G7199
+PWY-6890;4-amino-2-methyl-5-diphosphomethylpyrimidine biosynthesis;thiC thiD;EG11585 G7135
+PWY0-1479;tRNA processing;rne rph rnd rnt rnpA rnpB rbn rnb pnp;EG10859 EG10863 EG10858 EG11547 EG10862 EG30069 G7175 EG11620 EG10743
+THISYN-PWY;superpathway of thiamine diphosphate biosynthesis I;thiI thiS fdx sufS iscS thiH thiF dxs thiG thiE thiL thiC thiD;G6238 G1 EG11328 G6906 G7325 EG11590 EG11587 G6237 EG11589 EG11586 G6234 EG11585 G7135
+PWY0-1554;5-(carboxymethoxy)uridine biosynthesis;cmoA cmoB;G7020 G7021
+PWY-6700;queuosine biosynthesis;queG queA tgt queF;G7843 EG10812 EG10996 G7452
+PWY0-1586;peptidoglycan maturation (<i>meso</i>-diaminopimelate containing);ldtD mrcA mrcB ftsI mrdA ldtE dacA dacD dacC yfeW ampH pbpC mtgA;EG11253 EG10748 EG10605 EG10341 EG10606 G6904 EG10201 EG11893 EG10203 G7265 EG12867 G7322 G7668
+DAPLYSINESYN-PWY;L-lysine biosynthesis I;dapB lysC asd dapA dapD serC argD dapE lysA dapF;EG10206 EG10550 EG10088 EG10205 EG10207 EG10946 EG10066 EG10208 EG10549 EG10209
+PWY-5659;GDP-mannose biosynthesis;cpsB cpsG manA pgi;EG10161 EG10162 EG10566 EG10702
+PEPTIDOGLYCANSYN-PWY;peptidoglycan biosynthesis I (<I>meso</I>-diaminopimelate containing);ddlB ddlA murE murI murD murC murF murB murA mraY murG;EG10214 EG10213 EG10621 EG11204 EG10620 EG10619 EG10622 EG11205 EG11358 EG10604 EG10623
+PWY-66;GDP-L-fucose biosynthesis I (from GDP-D-mannose);fcl gmd;EG11788 EG11787
+PWY0-1391;<i>S</i>-methyl-5'-thioadenosine degradation IV;mtn;EG11090
+GLYCLEAV-PWY;glycine cleavage;gcvT gcvH gcvP lpd;EG11442 EG10371 EG11810 EG10543
+PWY0-42;2-methylcitrate cycle I;prpB acnB prpD prpC prpE acs;G6196 EG12316 G6199 G6198 G6200 EG11448
+PWY-6609;adenine and adenosine salvage III;gpt hpt add ppnP deoD xapA;EG10414 EG20098 EG10030 EG12159 EG10222 G85
+PROPIONMET-PWY;propanoyl CoA degradation I;scpA;EG11444
+PWY-6611;adenine and adenosine salvage V;gsk add ppnP deoD;EG11102 EG10030 EG12159 EG10222
+PWY-6605;adenine and adenosine salvage II;rihC apt;EG11082 EG10051
+PPGPPMET-PWY;ppGpp biosynthesis;adk ndk spoT relA gpp;EG10032 EG10650 EG10966 EG10835 EG10413
+SALVPURINE2-PWY;xanthine and xanthosine salvage;ppnP xapA gpt;EG12159 G85 EG10414
+ARGSYN-PWY;L-arginine biosynthesis I (via L-ornithine);argE gabT argD argC argB argA carA carB argF argI argH argG;EG11286 EG10361 EG10066 EG10065 EG10064 EG10063 EG10134 EG10135 EG10067 EG10069 EG11223 EG10068
+ARABCAT-PWY;L-arabinose degradation I;araB araD araA;EG10053 EG10055 EG10052
+PWY0-41;allantoin degradation IV (anaerobic);ybcF carA carB allD allE allC allB;EG12384 EG10134 EG10135 G6286 G6284 G6285 G6281
+PWY-5698;allantoin degradation to ureidoglycolate II (ammonia producing);allE allC allB;G6284 G6285 G6281
+PWY-5837;2-carboxy-1,4-naphthoquinol biosynthesis;menI menB menH menD menF menC menE;G6912 EG11368 EG12438 EG10579 EG12362 EG11532 EG12437
+PWY-5705;allantoin degradation to glyoxylate III;allE allC allB allA;G6284 G6285 G6281 G6275
+PWY-7980;ATP biosynthesis;atpC atpH atpA atpG atpD atpE atpF atpB;EG10100 EG10105 EG10098 EG10104 EG10101 EG10102 EG10103 EG10099
+PWY0-1590;NADH to hydrogen peroxide electron transfer;ccp nuoB nuoC nuoE nuoF nuoG nuoI nuoN nuoM nuoL nuoK nuoJ nuoH nuoA;EG12244 EG12083 EG12084 EG12086 EG11774 EG12087 EG12089 EG12093 EG11773 EG12092 EG12091 EG12090 EG12088 EG12082
+PWY0-1337;oleate &beta;-oxidation;fadJ fadB fadM;G7212 EG10279 G6244
+PWY0-1591;glycerol-3-phosphate to hydrogen peroxide electron transport;ccp glpC glpB glpA;EG12244 EG10393 EG10392 EG10391
+COA-PWY;coenzyme A biosynthesis I (prokaryotic);dfp coaE coaD;EG10004 EG12312 EG11190
+TRNA-CHARGING-PWY;tRNA charging;metY metW metV metZ glyT glyW glyV glyY glyU glyX hisR lysQ lysW lysZ lysV lysY lysT metU metT pheV pheU proM proL proK serW serV serU serX serT selC thrU thrT thrW thrV trpT tyrT tyrU tyrV aspV aspU aspT asnW asnV asnU asnT alaU alaX alaT alaW alaV valU valX valT valW valZ valV valY leuP leuU leuX leuT leuW leuQ leuV leuZ ileY ileT ileU ileV ileX gltV gltU gltT gltW glnW glnV glnU glnX cysT argW argZ argV argY argU argX argQ metG glyQ glyS hisS lysS lysU pheT pheS proS serS thrS trpS tyrS aspS asnS alaS valS leuS ileS gltX glnS cysS argS;EG30061 EG31117 EG30060 EG30062 EG30036 EG30039 EG30038 EG30041 EG30037 EG30040 EG30042 G6392 EG30057 G6391 EG30056 G6390 EG30055 EG30059 EG30058 EG30065 EG30064 EG30068 EG30067 EG30066 EG30096 EG30095 EG30094 EG30097 EG30093 EG30092 EG30102 EG30101 EG30104 EG30103 EG30105 EG30106 EG30107 EG30108 EG30025 EG30024 EG30023 G7069 EG30022 EG30021 EG30020 EG30009 EG30012 EG30008 EG30011 EG30010 EG30110 EG30113 EG30109 EG30112 G6389 EG30111 EG30114 EG30047 EG30050 EG30053 EG30049 EG30052 EG30048 EG30051 EG30054 G7387 EG30043 EG30044 EG30045 EG30046 EG30034 EG30033 EG30032 EG30035 EG30030 EG30029 EG30028 EG30031 G7991 EG30016 EG30019 EG30015 EG30018 EG30014 EG30017 EG30013 EG10586 EG10409 EG10410 EG10453 EG10552 EG10553 EG10710 EG10709 EG10770 EG10947 EG11001 EG11030 EG11043 EG10097 EG10094 EG10034 EG11067 EG10532 EG10492 EG10407 EG10390 EG10196 EG10071
+PWY-5123;<i>trans, trans</i>-farnesyl diphosphate biosynthesis;idi ispA;G7508 EG10508
+FAO-PWY;fatty acid &beta;-oxidation I;fadB fadJ fadE fadK fadD fadI fadA;EG10279 G7212 G6105 EG12357 EG11530 G7213 EG10278
+POLYISOPRENSYN-PWY;polyisoprenoid biosynthesis (<i>E. coli</i>);ispB pgpB ybjG bacA uppS idi ispA;EG10017 EG10705 G6439 EG11665 G6092 G7508 EG10508
+SORBDEG-PWY;D-sorbitol degradation II;srlD;EG10971
+PWY-5783;octaprenyl diphosphate biosynthesis;ispB;EG10017
+GALACTITOLCAT-PWY;galactitol degradation;gatA gatB gatC gatD gatZ gatY kbaZ kbaY pfkB;EG12414 EG12415 EG12416 EG12417 G7128 EG12419 G7631 EG12768 EG10700
+PWY-5785;di-<i>trans</i>,poly-<i>cis</i>-undecaprenyl phosphate biosynthesis;pgpB ybjG bacA uppS;EG10705 G6439 EG11665 G6092
+HEXITOLDEGSUPER-PWY;superpathway of hexitol degradation (bacteria);gpmA phoA yggF ybhA glpX fbp ppsA pfkA pfkB fbaB fbaA tpiA gapA pgk gpmM eno pykF pykA gatA gatB gatC gatD gatZ gatY kbaZ kbaY srlD mtlD;EG11699 EG10727 EG11245 EG11239 EG11517 EG10283 EG10759 EG10699 EG10700 G7129 EG10282 EG11015 EG10367 EG10703 EG12296 EG10258 EG10804 EG10803 EG12414 EG12415 EG12416 EG12417 G7128 EG12419 G7631 EG12768 EG10971 EG10616
+MANNIDEG-PWY;mannitol degradation I;mtlD;EG10616
+GLUCONEO-PWY;gluconeogenesis I;tpiA maeB maeA ppsA mdh pck eno gpmM pgk gapA fbaB fbaA yggF ybhA glpX fbp pgi;EG11015 G7293 EG10948 EG10759 EG10576 EG10688 EG10258 EG12296 EG10703 EG10367 G7129 EG10282 EG11245 EG11239 EG11517 EG10283 EG10702
+HISTSYN-PWY;L-histidine biosynthesis;hisG hisI hisA hisF hisH hisB hisC hisD;EG10449 EG10451 EG10444 EG10448 EG10450 EG10445 EG10446 EG10447
+PWY0-461;L-lysine degradation I;lhgD glaH gabT puuE gabD sad patD patA ldcC cadA;EG12387 G7394 EG10361 G6646 EG11329 G6811 G6755 G7596 G6094 EG10131
+PWY-5340;sulfate activation for sulfonation;cysC cysN cysD;EG10185 EG10194 EG10186
+PWY-6608;guanosine nucleotides degradation III;ppnP xapA deoD xdhC xdhB xdhA yrfG umpG umpH aphA guaD;EG12159 G85 EG10222 G7487 G7486 G7485 G7742 EG11817 EG10634 EG11934 G7502
+PANTO-PWY;phosphopantothenate biosynthesis I;coaA panB ilvC panE panC;EG10922 EG11675 EG10495 G6239 EG11746
+PWY-6147;6-hydroxymethyl-dihydropterin diphosphate biosynthesis I;folE nudB folB folK;EG11375 EG11138 EG11673 EG11374
+PWY-6823;molybdenum cofactor biosynthesis;moaC sufS iscS ynjE moeB moeA mog moaE moaD moaA;EG11666 G6906 G7325 G6952 EG10154 EG10153 EG11511 EG11598 EG11597 EG11595
+ASPARAGINE-DEG1-PWY;L-asparagine degradation I;iaaA ansA ansB;EG12407 EG10045 EG10046
