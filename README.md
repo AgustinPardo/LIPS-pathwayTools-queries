@@ -19,12 +19,13 @@ Devuelve una archivo de salida con los genes pertenecientes a cada pathway (4 co
 
 **Seleccionar el PGDB de trabajo**
 
+Ejemplo: ecoli
+
 `
 (select-organism :org-id 'ecoli)
 `
 
 **Importar las funciones**
-
 `
 (load "gene-of-pathway")
 `
@@ -34,3 +35,5 @@ Devuelve una archivo de salida con los genes pertenecientes a cada pathway (4 co
 `
 (tofile "pathways.dat" (object-table (get-class-all-instances '|Pathways|)))
 `
+
+Tener en cuenta las rutas de los archivos al monento de ejecutar los comandos!
