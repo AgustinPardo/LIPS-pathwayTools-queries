@@ -31,7 +31,9 @@ Ejemplo: ecoli
 (load "gene-of-pathway")
 `
 
-**Busqueda de pathways y genes. Guarda la salida en el archivo denomiado "pathways.dat" (Path default "~/home")**
+**Busqueda de pathways y genes. Guarda la salida en el archivo denomiado "pathways.dat" (Path default ".")**
+
+(Ejecutar ":PWD" para conocer la ubicacion actual)
 
 `
 (tofile "pathways.dat" (object-table (get-class-all-instances '|Pathways|)))
