@@ -2,12 +2,6 @@
 
 Devuelve una archivo de salida con los genes pertenecientes a cada pathway (4 columnas: Pathway name; Pathway id; gene name; gene id) del PGDB seleccionado. Ver ejemplo "ejemplo_pathways.dat".
 
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-```
 
 **Correr pathwaytools en modo lisp**
 
