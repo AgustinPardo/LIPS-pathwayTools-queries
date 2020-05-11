@@ -17,9 +17,7 @@ Devuelve una archivo de salida con los genes pertenecientes a cada pathway (4 co
 (all-orgs)
 `
 
-**Seleccionar el PGDB de trabajo**
-
-Ejemplo: ecoli
+**Seleccionar el PGDB de trabajo**. Ejemplo: ecoli
 
 `
 (select-organism :org-id 'ecoli)
@@ -31,9 +29,7 @@ Ejemplo: ecoli
 (load "gene-of-pathway")
 `
 
-**Busqueda de pathways y genes. Guarda la salida en el archivo denomiado "pathways.dat" (Path default ".")**
-
-(Ejecutar ":PWD" para conocer la ubicacion actual)
+**Busqueda de pathways y genes. Guarda la salida en el archivo denomiado "pathways.dat" (Path default ".")**. (Ejecutar ":PWD" para conocer la ubicacion actual)
 
 `
 (tofile "pathways.dat" (object-table (get-class-all-instances '|Pathways|)))
