@@ -4,6 +4,7 @@ Devuelve una archivo de salida con los genes pertenecientes a cada pathway (4 co
 
 
 **Correr pathwaytools en modo lisp**
+
 `
 ./pathwaytools -lisp
 `
