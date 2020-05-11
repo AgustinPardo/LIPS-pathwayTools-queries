@@ -26,6 +26,7 @@ Ejemplo: ecoli
 `
 
 **Importar las funciones**
+
 `
 (load "gene-of-pathway")
 `
